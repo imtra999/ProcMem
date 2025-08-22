@@ -1,5 +1,5 @@
 # ProcMem
-A lightweight C++ library for reading and writing memory of Windows processes.
+A lightweight C++ library for reading and writing memory of Windows processes for learning and debugging.
 
 ## Usage Example
 ```cpp
